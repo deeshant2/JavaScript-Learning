@@ -1,0 +1,3 @@
+JavaScript Learning Progress:
+
+1) Completed the "Learning the JavaScript Language" course on LinkedIn Learning
